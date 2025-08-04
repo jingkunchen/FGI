@@ -81,7 +81,7 @@ https://drive.google.com/drive/folders/1khBf2FavCg2LyiN7pNmb55ZPzDvzlTKi?usp=dri
 ## Paper and Reference
 
 Full paper (preprint, second revision) is available on arXiv:  
-**PDF**: https://arxiv.org/pdf/2504.11368 fileciteturn0file0
+**PDF**: https://arxiv.org/pdf/2504.11368 
 
 Refer to it for detailed methodology, architecture diagrams, loss formulations, dataset splits, experimental protocol, quantitative/qualitative results, and ablation studies.
 
