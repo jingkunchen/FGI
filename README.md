@@ -1,6 +1,6 @@
 # From Gaze to Insight: Bridging Human Visual Attention and Vision-Language Model Explanation for Weakly-Supervised Medical Image Segmentation
 
-> Code and accompanying material for the paper: *From Gaze to Insight: Bridging Human Visual Attention and Vision Language Model Explanation for Weakly-Supervised Medical Image Segmentation*. This repository implements the full weakly-supervised teacher–student segmentation framework that fuses clinician gaze (where experts look) with vision-language explanations (why regions matter) to produce high-quality segmentation with minimal dense annotation. If you use or build upon this work, please cite the paper. fileciteturn0file0
+> Code and accompanying material for the paper: *From Gaze to Insight: Bridging Human Visual Attention and Vision Language Model Explanation for Weakly-Supervised Medical Image Segmentation*. This repository implements the full weakly-supervised teacher–student segmentation framework that fuses clinician gaze (where experts look) with vision-language explanations (why regions matter) to produce high-quality segmentation with minimal dense annotation. If you use or build upon this work, please cite the paper.
 
 ## Abstract
 
