@@ -114,7 +114,7 @@ Include convenience scripts like `run_kvasir.sh` or `eval_isic.sh` in `examples/
 - **Mean Intersection over Union (mIoU)**  
 - **95% Hausdorff Distance (HD95)**  
 - **Average Surface Distance (ASD)**  
-- **Annotation Time Efficiency** (comparing gaze-based weak supervision to dense labeling) fileciteturn0file0
+- **Annotation Time Efficiency** (comparing gaze-based weak supervision to dense labeling) 
 
 ## Directory Layout (Suggested)
 
