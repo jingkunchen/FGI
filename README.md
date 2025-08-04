@@ -162,4 +162,4 @@ Include a matching `LICENSE` file in the repository.
 
 ## Acknowledgements
 
-This work was supported in part by relevant funding agencies. Collaborative research between Tsinghua University and the University of Oxford. fileciteturn0file0
+This work was supported in part by relevant funding agencies. Collaborative research between Tsinghua University and the University of Oxford. 
