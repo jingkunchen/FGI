@@ -54,7 +54,8 @@ Benchmarks used in this work:
 1. **Kvasir-SEG** – Endoscopic polyp segmentation.  
 2. **NCI-ISBI** – Prostate MRI segmentation (ISBI challenge).  
 3. **ISIC** – Dermoscopic skin lesion segmentation (with simulated gaze annotations).  
-
+Kvasir-Seg and NCI-ISBI dataset can be find at https://github.com/med-air/GazeMedSeg.
+Kvasir-Seg and NCI-ISBI text embedding and ISIC dataset with text embeeding can be find at https://drive.google.com/drive/folders/1vdB6vAPb2scsa4BXRyolGKro0DiAxgKc?usp=drive_link
 ### Acquisition & Preprocessing
 
 Obtain raw images and ground-truth masks from original sources. Preprocessing includes:
@@ -137,10 +138,11 @@ If you use or build upon this work, please cite the main paper:
 
 ```bibtex
 @article{chen2025gaze,
-  title={From Gaze to Insight: Bridging Human Visual Attention and Vision Language Model Explanation for Weakly-Supervised Medical Image Segmentation},
+  title={From gaze to insight: bridging human visual attention and vision language model explanation for weakly-supervised medical image segmentation},
   author={Chen, Jingkun and Duan, Haoran and Zhang, Xiao and Gao, Boyan and Grau, Vicente and Han, Jungong},
-  journal={arXiv preprint arXiv:2504.11368},
-  year={2025}
+  journal={IEEE Transactions on Medical Imaging},
+  year={2025},
+  publisher={IEEE}
 }
 ```
 
